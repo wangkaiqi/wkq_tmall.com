@@ -1,9 +1,4 @@
-﻿#j_tslm {
-	border-bottom:1px solid #E2E2E3;
-	margin-top:22px;
-	overflow:hidden;
-	padding-bottom:40px;
-}
+﻿
 .mod-tit {
 	background: no-repeat;
 	color:blue;
@@ -18,9 +13,13 @@
 }
 
 /*
+<<<<<<< HEAD
 
   <div class='slider_nav1'>
     <p class='p1'>This is master branch</p>
   </div>
 
+=======
+  <h3>This is dev branch</h3>
+>>>>>>> dev
 */
