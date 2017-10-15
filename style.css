@@ -1,0 +1,18 @@
+﻿#j_tslm {
+	border-bottom:1px solid #E2E2E3;
+	margin-top:22px;
+	overflow:hidden;
+	padding-bottom:40px;
+}
+.mod-tit {
+	background: no-repeat;
+	color:#303236;
+	font-size: 28px;
+	height: 50px;
+	line-height: 50px;
+	margin:32px 0;
+	padding-left: 60px;
+}
+.tszl {
+	background-image: url(../images/tit_tslm.png);
+}
